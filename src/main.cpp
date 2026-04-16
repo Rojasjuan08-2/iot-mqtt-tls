@@ -30,7 +30,7 @@
 #include <libstorage.h>
 #include <libprovision.h>
 
-// Version del firmware
+// Versin del firmware
 #define FIRMWARE_VERSION "v1.1.1"
 
 SensorData data;  // Estructura para almacenar los datos de temperatura y humedad del SHT21
